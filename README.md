@@ -1,5 +1,7 @@
 👋**Hey there, I'm Arnav Garhwal**  🚀
 
+<img src="./header.png" width="100%" alt="Header Banner" />
+
 -----
 ## 🧠 About Me
 
