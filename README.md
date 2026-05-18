@@ -132,12 +132,13 @@ I am a passionate **Full-Stack Web Developer** and **AI Enthusiast** focused on 
 
 ## 🎓 Education
 
-| Institution | Degree | Timeline | 
-| :--- | :--- | :--- | :--- |
-| **[ Mumbai University ]** | B.Tech in Computer Science & Design  | 2024 - 2028 |
-| **[ kendriya vidyalaya ]** | Higher Secondary Certificate (Class XII) | 2022 - 2024 | 
-| **[ kendriya vidyalaya ]** | Secondary School Certificate (Class X) | 2021 - 2022 | 
-| 
+| Institution | Degree | Timeline |
+| :--- | :--- | :--- |
+| **Mumbai University** | B.Tech in Computer Science & Design | 2024 - 2028 |
+| **Kendriya Vidyalaya** | Higher Secondary Certificate (Class XII) | 2022 - 2024 |
+| **Kendriya Vidyalaya** | Secondary School Certificate (Class X) | 2021 - 2022 |
+
+<br />
 
 ---
 
