@@ -1,29 +1,4 @@
 👋**Hey there, I'm Arnav Garhwal**  🚀
-<p align="center">
-  <a href="https://github.com/Arnavgarhwal">
-    <img src="https://capsule-render.vercel.app/type/soft&color=0d1117&height=160&section=header&text=ARNAV%20GARHWAL&fontSize=45&fontColor=00d2ff&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%20•%20%20AI%20Enthusiast&descAlignY=65&descAlign=50&descSize=16&descColor=a5b4fc" width="100%" alt="Arnav Garhwal Header Banner" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arnavgarhwal/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-1e222b?style=for-the-badge&logo=linkedin&logoColor=00d2ff" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Arnavgarhwal" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-1e222b?style=for-the-badge&logo=github&logoColor=00d2ff" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/arnavgarhwal/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-1e222b?style=for-the-badge&logo=instagram&logoColor=00d2ff" alt="Instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider Line" />
-</p>
-
-<br />
 
 -----
 ## 🧠 About Me
