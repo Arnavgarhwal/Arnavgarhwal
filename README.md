@@ -3,7 +3,7 @@
 <img src="./header.png" width="100%" alt="Header Banner" />
 
 -----
-## 🧠 About Me
+## 🧠 About Me  
 
 <samp>
   <h3>⚡ Engineering the Future with Code & Intelligence</h3>
