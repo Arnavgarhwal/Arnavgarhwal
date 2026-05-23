@@ -151,7 +151,7 @@ I am a passionate **Full-Stack Web Developer** and **AI Enthusiast** focused on 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arnavgarhwal&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff&icon_color=007acc" alt="GitHub Stats" />
   </a>
-  
+   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnavgarhwal&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff" alt="Top Languages" />
   </a>
